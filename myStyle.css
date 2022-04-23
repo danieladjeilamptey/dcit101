@@ -1,0 +1,26 @@
+body{
+  background-image: url('/images/back.jpg');
+}
+.body1{
+  background-image: url('/images/mansion\ \(2\).jpg');
+
+}
+.body2{
+  background-image: url('/images/girl.jpg');
+
+}
+.body3{
+  background-image: url('/images/sidegirl.jpg');
+
+}
+.body4{
+  background-image: url('/images/car.jpg');
+
+}
+h1{
+  color: red;
+
+}
+p{
+  color: red;
+}
